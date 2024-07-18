@@ -281,7 +281,7 @@
     padding: 0.5rem 1rem;
   }
   .img1, .img2, .img3 {
-    max-height: 200px; /* Adjusted height to fit all images in one row */
+    max-height: 200px; 
     object-fit: cover;
   }
   .img3 img {
@@ -329,7 +329,6 @@
   }
 }
 
-/* Webkits for Other Browser Supports */
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
